@@ -5,7 +5,7 @@ metadata:
   description: This is a sample React application
   annotations:
     github.com/project-slug: thakkarpurvesh-xebia/i18next-tutorial-yt
-
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   owner: development
