@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-app
+  description: This is a sample React application
+  annotations:
+    github.com/project-slug: thakkarpurvesh-xebia/i18next-tutorial-yt
+
+spec:
+  type: website
+  owner: development
+  lifecycle: experimental
